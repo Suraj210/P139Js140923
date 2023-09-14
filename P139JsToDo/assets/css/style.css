@@ -1,0 +1,12 @@
+i {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+
+.text-alert {
+  display: none;
+
+  color: red;
+  margin-top: 4px;
+}
